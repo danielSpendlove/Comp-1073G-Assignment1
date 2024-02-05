@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(243, 243, 166);
+}
+#choosenNoun1{
+    color: blueviolet;
+}
+#choosenVerb{
+    color: rgb(99, 99, 226);
+}
+#choosenAdjective{
+    color: rgb(55, 90, 2);
+}
+#choosenNoun2{
+    color: orangered;
+}
+#choosenSetting{
+    color: hotpink;
+}
+#studentId{
+    font-size: large;
+    color: crimson;
+
+}
